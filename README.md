@@ -1,5 +1,5 @@
 # Autonomous Robots: Path Planning
-Assignments for my Path Planning Course
+Assignments for the Path Planning Course by WuStangDan on Udemy
 
 Course link: 
 
